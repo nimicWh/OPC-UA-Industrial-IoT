@@ -110,8 +110,7 @@ The OPC UA Client successfully connected to the IoT gateway and displayed real-t
 * Configuring an IoT gateway as an OPC UA Server
 * Publishing industrial process data using OPC UA
 * Connecting industrial software through standard communication protocols
-* Understanding OPC UA client/server architecture
-* Implementing interoperable Industrial IoT solutions
+* OPC UA client/server architecture
 
 ---
 
