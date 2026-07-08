@@ -55,7 +55,6 @@ Industrial Device / Sensors
 
 ---
 
-# Project Showcase
 
 ## 1. OPC UA Server on IoT Gateway
 
@@ -93,7 +92,7 @@ The OPC UA Client successfully connected to the IoT gateway and displayed real-t
 
 ---
 
-# Skills Demonstrated
+# Demonstrated
 
 * OPC UA Server Configuration
 * OPC UA Client Integration
@@ -106,7 +105,7 @@ The OPC UA Client successfully connected to the IoT gateway and displayed real-t
 
 ---
 
-# Key Learning Outcomes
+# Outcomes
 
 * Configuring an IoT gateway as an OPC UA Server
 * Publishing industrial process data using OPC UA
@@ -133,4 +132,4 @@ The OPC UA Client successfully connected to the IoT gateway and displayed real-t
 
 This project was completed in **2018** as a proof of concept demonstrating Industrial IoT communication using the OPC UA standard.
 
-The project showcases practical experience in configuring an IoT gateway as an OPC UA Server and enabling interoperability with industrial client applications. The architecture reflects common Industry 4.0 practices for securely exchanging data between industrial equipment, gateways, and supervisory software.
+The project shows an IoT gateway as an OPC UA Server and enabling interoperability with industrial client applications. The architecture reflects common Industry 4.0 practices for securely exchanging data between industrial equipment, gateways, and supervisory software.
